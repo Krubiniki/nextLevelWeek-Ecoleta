@@ -1,6 +1,8 @@
 const express = require("express")
 const server = express()
 
+const PORT = process.env.PORT || 3000
+
 const db = require("./database/db.js")
 
 server.use(express.static("public"))
@@ -73,4 +75,4 @@ server.get("/search", (req, res) => {
     })
 })
 
-server.listen(5000)
+server.listen(PORT)
