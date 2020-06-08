@@ -7,14 +7,14 @@ O projeto envolve uma solução para visualizar e cadastrar pontos de coleta de 
 apropriado de cada tipo de lixo.
 
 Ferramentas utilizadas:
-VSCode
-JavaScript / Node.js
-HTML
-CSS
-Nunjucks
-Git / GitHub
-Heroku
-SQlite3
+VSCode,
+JavaScript / Node.js,
+HTML,
+CSS,
+Nunjucks,
+Git / GitHub,
+Heroku,
+SQlite3.
 
 HOME
 
